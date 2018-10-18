@@ -1,0 +1,1 @@
+Learning Apache Flink, starting from running jar files, then followed by maven tutorials, and then start flink projects from Java template, configure dependencies and use maven to build jar file and run the program. Alternatively running flink program can be triggered with 'flink run file.jar'
